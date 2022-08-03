@@ -10,9 +10,9 @@
 
 ### Features
 
-- Bump Native SDK to v0.4.18 ([#2154](https://github.com/getsentry/sentry-java/pull/2154))
-  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0418)
-  - [diff](https://github.com/getsentry/sentry-native/compare/0.4.17...0.4.18)
+- Bump Native SDK to v0.5.0 ([#2154](https://github.com/getsentry/sentry-java/pull/2154), [#2199](https://github.com/getsentry/sentry-java/pull/2199))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#050)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.4.17...0.5.0)
 - Bump Gradle to v7.5.0 ([#2174](https://github.com/getsentry/sentry-java/pull/2174), [#2191](https://github.com/getsentry/sentry-java/pull/2191))
   - [changelog](https://github.com/gradle/gradle/blob/master/CHANGELOG.md#v750)
   - [diff](https://github.com/gradle/gradle/compare/v7.4.2...v7.5.0)
